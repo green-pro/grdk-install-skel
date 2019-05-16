@@ -7,6 +7,7 @@ GRDKInstall - Instalação geral dos serviços Docker
 * GitLab
 * Proxy Nginx
 * Slack Notifications
+* Backup DB (mydumper and AWS S3)
 
 ## Pré-requisitos
 
