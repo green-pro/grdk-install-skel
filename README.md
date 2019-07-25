@@ -21,8 +21,8 @@ Escolha "M" para Docker MANAGER ou "w" para Docker WORKER
 
 ## Inicialização dos Serviços
 
-./grdk-start.sh
+MANAGER# ./grdk-start.sh
 
 ## Paralização dos Serviços
 
-./grdk-stop.sh
+MANAGER# ./grdk-stop.sh
